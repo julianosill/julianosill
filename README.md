@@ -33,3 +33,11 @@ I also worked as a Visual and Web Designer for 13 years. So, besides giving my b
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=julianosill&layout=compact&theme=dracula&hide_border=true) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=julianosill&repo=nlwia-upload.ai&theme=dracula&hide_border=true)](https://github.com/julianosill/nlwia-upload.ai) -->
+
+---
+
+#### Credits
+
+- Icons _by_ [Simple Icons](https://simpleicons.org/)
+- Statis Badges _by_ [Shields.io](https://shields.io/docs/static-badges)
+- GitHub Readme Stats _by_ [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
