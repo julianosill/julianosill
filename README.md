@@ -1,18 +1,19 @@
 # Hey! It's me, Juliano!
 
-I'm a Front-End Developer working with `Javascript`, `React` and `Node.js`.
+I'm a Front-End Developer working with `Javascript`, `React`, `Next.js` and `Node.js`.
 
 I also worked as a Visual and Web Designer for 13 years. So, besides giving my best to develop applications that run flawlessly, I love make them run beautifully as well.
 
 ## Stack
 
-![javascript](https://img.shields.io/badge/javascript-292b36?style=for-the-badge&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-292b36?style=for-the-badge&logo=typescript)
+![javascript](https://img.shields.io/badge/javascript-292b36?style=for-the-badge&logo=javascript)
 ![react](https://img.shields.io/badge/react-292b36?style=for-the-badge&logo=react)
+![next](https://img.shields.io/badge/next.js-292b36?style=for-the-badge&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-292b36?style=for-the-badge&logo=node.js)
-![firebase](https://img.shields.io/badge/firebase-292b36?style=for-the-badge&logo=firebase)
 ![postgresql](https://img.shields.io/badge/postgresql-292b36?style=for-the-badge&logo=postgresql)
 ![sqlite](https://img.shields.io/badge/sqlite-292b36?style=for-the-badge&logo=sqlite)
+![firebase](https://img.shields.io/badge/firebase-292b36?style=for-the-badge&logo=firebase)
 
 > **Styling with**
 
@@ -23,7 +24,7 @@ I also worked as a Visual and Web Designer for 13 years. So, besides giving my b
 
 ## My links
 
-[![portfolio](https://img.shields.io/badge/portfolio-292b36?style=for-the-badge&logo=ko-fi&logoColor=c2410c)](https://julianosill.github.io)
+[![portfolio](https://img.shields.io/badge/portfolio-292b36?style=for-the-badge&logo=ko-fi&logoColor=c2410c)](https://julianosill.vercel.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianosill)
 
 ---
