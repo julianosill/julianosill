@@ -24,7 +24,7 @@ I also worked as a Visual and Web Designer for 13 years. So, besides giving my b
 
 ## My links
 
-[![portfolio](https://img.shields.io/badge/portfolio-292b36?style=for-the-badge&logo=ko-fi&logoColor=c2410c)](https://julianosill.vercel.app)
+[![portfolio](https://img.shields.io/badge/portfolio-292b36?style=for-the-badge&logo=ko-fi&logoColor=c2410c)](https://julianosill.com.br)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianosill)
 
 ---
